@@ -1,0 +1,10 @@
+.flag{
+    height: 100px;
+    width: 150px;
+}
+
+.country{
+    border: 1px solid red;
+    margin: 10px;
+    padding: 5px;
+}
